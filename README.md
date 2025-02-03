@@ -1,3 +1,5 @@
 # TNF-seq-BD-Rhapsody
 
 Tumor Necrosis Factor Alpha is a known pro-inflammatory cytokine that plays a key role in the pathogenesis of rheumatoid arthritis. Anti-cytokine therapies targeting Tumor Necrosis Factor Alpha have greatly succeeded in treating rheumatoid arthritis in many patients. Despite these developments, many of the mechanisms of Tumor Necrosis Factor Alpha action have yet to be uncovered.  In this study, we incubated PBMCs from healthy donors and rheumatoid arthritis patients with Tumor Necrosis Factor Alpha and then performed their single-cell multi-omics analysis via BD Rhapsody. We have observed that Classical Monocytes have responded to the Tumor Necrosis Factor Alpha stimulation the most and that there was an activational threshold for such response that was dependent on the TNFR2 protein expression level. The profiling of TNFR2 protein expression level on immune cell populations can be a good predictive factor for the assessment of their activation by Tumor Necrosis Factor Alpha.
+
+![Figure 1](https://github.com/user-attachments/assets/4b624bc7-1972-4228-8dcd-89658f4b8ba4)
